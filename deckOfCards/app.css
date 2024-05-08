@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(9, 93, 9);
+}
+
+button {
+    background-color: rgb(58, 58, 58);
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+img {
+    position: absolute;
+    left: 50%;
+    top: 300px;
+}
